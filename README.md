@@ -1,2 +1,2 @@
-# Regression_EmployeeAttrition
-Regression Project using IBM emplyee attrition dataset
+# Classification_EmployeeAttrition
+Classification Project using IBM emplyee attrition dataset
